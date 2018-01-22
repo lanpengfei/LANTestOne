@@ -1,5 +1,5 @@
 PODS:
-  - LANTestOne (0.1.0)
+  - LANTestOne (0.1.1)
 
 DEPENDENCIES:
   - LANTestOne (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  LANTestOne: b3665d152a5d29545b234d886ba2539980184efe
+  LANTestOne: a3a878230e1ffc0de29c8fa04352d523a2c5b506
 
 PODFILE CHECKSUM: 7dbe42a886f6b54f07506b244cb1f6331c3980eb
 

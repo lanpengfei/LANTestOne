@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LANTestOne_Example' do
+  pod 'LANTestOne', :path => '../'
+
+  target 'LANTestOne_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
